@@ -8,3 +8,4 @@ chrome.action.setBadgeText({
 },() => {
 	console.log("Finished Badge Text")
 } )
+

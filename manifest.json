@@ -16,5 +16,6 @@
     },
     "default_title": "Use Your time Correctly",
     "default_popup": "popup.html"
-  }
+  },
+  "options_page": "options.html"
 }
